@@ -1,4 +1,4 @@
 # new
-This is my git first repo
+This is my first git repo
 <br>
 author-Tejasvi PC
